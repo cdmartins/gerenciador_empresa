@@ -1,6 +1,11 @@
 # gerenciador_empresa
 Projeto C# -  Algortimos e Estrutura de Dados I
 
+2º Projeto da Disciplina
+O segundo projeto da disciplina tem como objetivo reforçar a 
+aplicação dos conceitos de orientação a objetos vistos até o momento por
+ meio da criação de um pequeno sistema. 
+
 
 ## Sistema de cadastramento de funcionários
 
