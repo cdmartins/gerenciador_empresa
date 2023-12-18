@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\bin\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.exe
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\bin\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.deps.json
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\bin\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.runtimeconfig.json
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\bin\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.dll
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\bin\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.pdb
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.AssemblyInfo.cs
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.dll
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\refint\Projeto C# -  Algortimos e Estrutura de Dados I.dll
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.pdb
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\Projeto C# -  Algortimos e Estrutura de Dados I.genruntimeconfig.cache
+C:\Users\User\Documents\Atividades c#\Projeto C# -  Algortimos e Estrutura de Dados I\obj\Debug\net7.0\ref\Projeto C# -  Algortimos e Estrutura de Dados I.dll
